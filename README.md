@@ -24,7 +24,7 @@ Create a temporary table called home_sales.
 
 ![output](3bedroom_img3.png)
 
-    What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+*    What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
 ![output](averagepric_3beds_3bath_2ksqft_img4.png)
 
