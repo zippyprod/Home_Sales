@@ -16,7 +16,7 @@ Create a temporary table called home_sales.
 ![output](4bedroom_img2.png)
 
 *  What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
-![output](2.png)
+![output](3bedroom_img3.png)
 
 *  What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 ![output](3bedroom_img3.png)
